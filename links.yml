@@ -83,10 +83,10 @@ categories:
   - category: 程序员博客
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://discuss.cn.pipecraft.net/d/6
-        description: 快来交换友情链接吧
+      - title: 阮一峰的网络日志
+        logo: https://www.ruanyifeng.com/favicon.ico
+        url: https://www.ruanyifeng.com/blog/archives.html
+        description: 科技爱好者周刊 - 记录每周值得分享的科技内容，周五发布。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://discuss.cn.pipecraft.net/d/6
@@ -96,10 +96,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://discuss.cn.pipecraft.net/d/6
         description: 快来交换友情链接吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://discuss.cn.pipecraft.net/d/6
-        description: 快来交换友情链接吧
+      - title: Livid 的博客 (V2EX 创始人)
+        logo: https://livid.v2ex.com/favicon.ico
+        url: https://livid.v2ex.com/
+        description: 创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。
 
   - category: 设计师博客
     icon: linecons-doc
