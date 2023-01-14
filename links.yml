@@ -34,16 +34,16 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: 腕上风情
+        logo: https://www.wsfq.top/assets/favicon-r3jc8mjv.png
+        url: https://www.wsfq.top/
+        description: 腕上风情是一个专业玩表的论坛，用户可以在论坛里面获取到玩表的工具以及适合手表使用的软件等等。在论坛里也可以与大家交流玩表时遇到的问题或者自己的意见等等。
+        tags: 论坛
       - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://discuss-cn.pipecraft.net/d/6
-        description: 快来交换友情链接吧
-        tags: 程序员,生活,创意
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://discuss-cn.pipecraft.net/d/6
@@ -163,6 +163,11 @@ categories:
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: 腕上风情
+        logo: https://www.wsfq.top/assets/favicon-r3jc8mjv.png
+        url: https://www.wsfq.top/
+        description: 腕上风情是一个专业玩表的论坛，用户可以在论坛里面获取到玩表的工具以及适合手表使用的软件等等。在论坛里也可以与大家交流玩表时遇到的问题或者自己的意见等等。
+        tags: 论坛
 
   - category: 友情推荐
     icon: linecons-doc
